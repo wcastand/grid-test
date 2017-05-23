@@ -1,0 +1,22 @@
+{
+  "name": "grid-test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fela": "^4.3.5",
+    "fela-plugin-named-media-query": "^4.3.5",
+    "fela-plugin-unit": "^4.3.5",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-fela": "^4.3.5"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
